@@ -1,1 +1,1 @@
-# rock_paper_scissors
+# This is a project that was previously written in JavaScript by me. This is a Python version.  
