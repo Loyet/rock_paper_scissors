@@ -17,3 +17,6 @@ while True:
     if user_input not in options:
         continue
 
+    # Create a random number between 0 and 2.
+    random_number = random.randint(0, 2)
+    # Rock: 0, Paper: 1, Scissors: 2
