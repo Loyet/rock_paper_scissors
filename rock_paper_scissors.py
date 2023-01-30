@@ -34,7 +34,7 @@ while True:
         user_wins += 1
     else:
         print("You lose!")
-        computer_wins =+ 1
+        computer_wins += 1
 
 print(f"You won {user_wins} times.")
 print(f"The computer won {computer_wins} times.")
